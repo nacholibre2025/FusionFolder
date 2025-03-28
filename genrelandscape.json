@@ -193,7 +193,7 @@
     "displayMode": "Grid",
     "layout": "Square",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://github.com/MediaBrowser/Emby.Resources/blob/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/genres/Thriller/thumb.jpg",
+    "backgroundImageURL": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/master/images/imagesbyname/genres/Thriller/thumb.jpg",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
