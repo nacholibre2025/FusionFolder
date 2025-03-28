@@ -151,6 +151,23 @@
     "textSize": "Medium",
     "textWeight": "Bold"
   },
+    {
+    "id": "reality-folder",
+    "name": "Reality",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/reality-icon.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
   {
     "id": "romance-folder",
     "name": "Romance",
@@ -202,38 +219,4 @@
     "textSize": "Medium",
     "textWeight": "Bold"
   },
-  {
-    "id": "nature-folder",
-    "name": "Nature",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Square",
-    "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/nature-icon.png",
-    "logoURL": null,
-    "mediaTypeFilter": "All Content",
-    "iconName": "tv",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold"
-  },
-  {
-    "id": "reality-folder",
-    "name": "Reality",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Square",
-    "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/reality-icon.png",
-    "logoURL": null,
-    "mediaTypeFilter": "All Content",
-    "iconName": "tv",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold"
-  }
 ]
